@@ -1,3 +1,6 @@
+"""
+This file contains inputs for test_tasks.py
+"""
 
 TEST_CASE_ONE = [
     {

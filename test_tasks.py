@@ -4,7 +4,7 @@ import test_inputs
 import test_ans
 import copy
 
-# unittest.util._MAX_LENGTH=None
+# Globals
 TEST_CASE1 = copy.deepcopy(test_inputs.TEST_CASE_ONE)
 TEST_CASE2 = copy.deepcopy(test_inputs.TEST_CASE_TWO)
 TEST_CASE3 = copy.deepcopy(test_inputs.TEST_CASE_THREE)

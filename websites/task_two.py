@@ -5,7 +5,6 @@ from .utils import print_json
 Prints out list with www. prepended to domain
 '''
 def task_two(websites):
-    result = list()
     index = 0
     incorrect_elements = list()
 

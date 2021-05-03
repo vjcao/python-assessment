@@ -13,9 +13,9 @@ def main():
     if task == 1:
         result = websites.task_one(WEBSITES)
     elif task == 2:
-        WEBSITES = websites.task_two(WEBSITES)
+        websites.task_two(WEBSITES)
     elif task == 3:
-        WEBSITES = websites.task_three(WEBSITES)    
+        websites.task_three(WEBSITES)    
     elif task == 4:
         result = websites.task_four(WEBSITES)
     else:

@@ -21,7 +21,6 @@ def task_three(websites):
 
         index += 1
 
-
     for i in reversed(incorrect_elements):
         del websites[i]
 
